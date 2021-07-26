@@ -1,0 +1,7 @@
+,Dataset,Time,Detector/Descriptor
+0,all metrics quarry(0.35),207.80455190700002,BRISK
+1,all metrics quarry(0.35),33.69375427299997,BRISK+FREAK
+2,all metrics quarry(0.35),31.60064851300001,GFTT+SIFT
+3,all metrics quarry(0.35),204.819164934,MSER+SIFT
+4,all metrics quarry(0.35),193.6792643069998,ORB
+5,all metrics quarry(0.35),39.734180414999855,STAR+BRIEF
