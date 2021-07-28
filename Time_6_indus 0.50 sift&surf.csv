@@ -1,0 +1,4 @@
+,Dataset,Time,Detector/Descriptor
+0,indus 0.50 sift&surf,323.45759599099983,DAISY+SIFT
+1,indus 0.50 sift&surf,506.5509493030004,SIFT
+2,indus 0.50 sift&surf,296.91417411899965,SURF

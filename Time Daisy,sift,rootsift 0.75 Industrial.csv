@@ -1,0 +1,4 @@
+,Dataset,Time,Detector/Descriptor
+0,Industrial Dataset,801.7774936810001,DAISY+SIFT
+1,Industrial Dataset,760.878474482,SIFT
+2,Industrial Dataset,758.7152211920002,ROOTSIFT

@@ -1,0 +1,3 @@
+,Dataset,Time,Detector/Descriptor
+0,"kaze,akaze0.35 quarry",1067.798191768,AKAZE
+1,"kaze,akaze0.35 quarry",186.9345768410003,KAZE

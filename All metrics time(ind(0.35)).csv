@@ -1,0 +1,7 @@
+,Dataset,Time,Detector/Descriptor
+0,all metrics ind(0.35),63.40652641199995,BRISK
+1,all metrics ind(0.35),25.353440621000004,BRISK+FREAK
+2,all metrics ind(0.35),18.381805950000057,GFTT+SIFT
+3,all metrics ind(0.35),55.65661175599996,MSER+SIFT
+4,all metrics ind(0.35),129.163842036,ORB
+5,all metrics ind(0.35),25.54914549,STAR+BRIEF
